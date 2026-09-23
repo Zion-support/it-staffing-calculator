@@ -1,13 +1,24 @@
 # IT Staffing Calculator
 
-Team sizing based on infrastructure scale, SLA requirements and coverage model.
+Team sizing calculator based on infrastructure size, SLAs and automation level.
 
-Part of the **Zion App Network** — 550+ interlinked AI & IT tools by [Zion Tech Group](https://ziontechgroup.com).
+**Live app:** https://zion-support.github.io/it-staffing-calculator/ · **GitHub:** https://github.com/Zion-support/it-staffing-calculator
 
+## Features
+- Inputs: users, devices, sites, SLA, automation level
+- Role-level breakdown (help desk, sysadmin, network)
+- Compare in-house vs managed services cost
+
+## Part of the Zion AI App Network
 - 🏠 Homepage: https://ziontechgroup.com
-- 📂 Full app catalog: https://ziontechgroup.com/apps/
-- 📢 About the network: https://ziontechgroup.com/app-network/
-- 💻 GitHub org: https://github.com/Zion-support
-- ✉️ Contact: commercial@ziontechgroup.com
+- 🌐 App Showcase: https://zion-support.github.io/apps/
+- 🧭 Master directory: https://github.com/Zion-support/zion-app-network
+- 🔗 Interlinks: see [NETWORK.md](NETWORK.md)
 
-Related apps: [field-tech-scheduler](https://github.com/Zion-support/field-tech-scheduler) · [ai-hr-talent-platform](https://github.com/Zion-support/ai-hr-talent-platform) · [zion-ai-quote-builder](https://github.com/Zion-support/zion-ai-quote-builder)
+## Related apps
+- [Managed IT Health Check](https://zion-support.github.io/managed-it-health-check/)
+- [IT Asset Lifecycle Tracker](https://zion-support.github.io/it-asset-lifecycle-tracker/)
+- [AI ROI Calculator](https://zion-support.github.io/ai-roi-calculator/)
+
+---
+© 2026 Zion Tech Group · [Book a Discovery Call](https://ziontechgroup.com/discovery/)
